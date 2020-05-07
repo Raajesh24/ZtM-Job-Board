@@ -30,4 +30,19 @@
       "state": "Florida",
       "country": "United States]"
     }
+  },{
+    "id": 1002,
+    "name": "Rajesh R",
+    "img": "",
+    "links": {
+      "website": "",
+      "linkedin": "www.linkedin.com/in/rajesh2409",
+      "github": ""
+    },
+    "jobTitle": "React Developer",
+    "location": {
+      "city": "Chennai",
+      "state": "Tamilnadu",
+      "country": "India"
+    }
   }
